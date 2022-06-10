@@ -224,8 +224,8 @@
 "wasu",
 "bilibili"
 ],
-###"spider": "https://raw.githubusercontent.com/chengtiannan/mjk/main/custom_spider_0330.jar;md5;01a4ac9109a0602124cee4feddc1971e",
-"spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+"spider": "https://raw.githubusercontent.com/chengtiannan/mjk/main/custom_spider_0330.jar;md5;01a4ac9109a0602124cee4feddc1971e",
+###"spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 "ijk": [
 {
 "group": "软解码",

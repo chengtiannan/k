@@ -3,10 +3,10 @@
 "sites": [
 {"key":"csp_xpath___在线之家","name":"在线之家(XP)","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/chengtiannan/mjk/main/zxzj.json"},
 {"key": "csp_77","name": "七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_xpath_lezhutv","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/lezhutv.json"},
-{"key":"csp_xpath_lib","name":"LIBVIO(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/lib.json"},
-{"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/dadagui.json"},
-{"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/jubaibai.json"},
+{"key":"csp_xpath_lezhutv","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/chengtiannan/mjk/main/lezhutv.json"},
+{"key":"csp_xpath_lib","name":"LIBVIO(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/chengtiannan/mjk/main/lib.json"},
+{"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/chengtiannan/mjk/main/dadagui.json"},
+{"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/chengtiannan/mjk/main/jubaibai.json"},
 {"key":"csp_appysv2_迪迪","name":"迪迪(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
 {
 "key": "csp_xpath_94sm",
@@ -16,7 +16,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/94sm.json"
+"ext": "https://raw.githubusercontent.com/chengtiannan/mjk/main/94sm.json"
 },
 {
 "key": "csp_xpath_age",
@@ -26,7 +26,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/agefans.json"
+"ext": "https://raw.githubusercontent.com/chengtiannan/mjk/main/agefans.json"
 },
 {
 "key": "csp_xpath_jpyszl",
@@ -36,7 +36,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/jpys.json"
+"ext": "https://raw.githubusercontent.com/chengtiannan/mjk/main/jpys.json"
 },
 {"key":"csp_appysv2_天空V2","name":"天空V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
 {"key":"csp_appysv2_天空","name":"天空(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkys.tv/xgapp.php/v1/"},
@@ -48,7 +48,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/tvci.json"
+"ext": "https://raw.githubusercontent.com/chengtiannan/mjk/main/tvci.json"
 },
 {
 "key": "csp_xpath_duboku",
@@ -58,7 +58,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/Duboku.json"
+"ext": "https://raw.githubusercontent.com/chengtiannan/mjk/main/Duboku.json"
 },
 {
 "key": "csp_xpath_dm84",
@@ -68,7 +68,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/dm84.json"
+"ext": "https://raw.githubusercontent.com/chengtiannan/mjk/main/dm84.json"
 },
 {
 "key":"csp_xpath_pianba",
@@ -78,7 +78,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable": 0,
-"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/pianba.json"
+"ext":"https://raw.githubusercontent.com/chengtiannan/mjk/main/pianba.json"
 }
 ],
 "lives": [
@@ -224,7 +224,7 @@
 "wasu",
 "bilibili"
 ],
-"spider": "https://jar1234.coding.net/p/m/d/m/git/raw/master/custom_spider_0330.jar;md5;01a4ac9109a0602124cee4feddc1971e",
+"spider": "https://raw.githubusercontent.com/chengtiannan/mjk/main/custom_spider_0330.jar;md5;01a4ac9109a0602124cee4feddc1971e",
 "ijk": [
 {
 "group": "软解码",

@@ -88,8 +88,7 @@
 {
 "name": "redirect",
 "urls": [
-//"proxy://do=live&type=txt&ext=https://raw.githubusercontent.com/chengtiannan/mjk/main/maolive.txt==" 
- "proxy://do=live&type=txt&ext=https://raw.githubusercontent.com/chengtiannan/mjk/main/live.txt=="
+"proxy://do=live&type=txt&ext=https://raw.githubusercontent.com/chengtiannan/mjk/main/maolive.txt==" 
 ]
 }
 ]

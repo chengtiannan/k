@@ -13,8 +13,8 @@
 			    "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]
 		    },
             {
-      "name": "sjb",
-           "url": "https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u"      
+      "name": "M3U",
+           "url":["https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u"]      
     }]
 	    }],
 

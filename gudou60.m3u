@@ -14,9 +14,9 @@ http://192.168.31.60/gudou.php?id=CCTV3HD_7000
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="谷豆本地",CCTV4
 http://192.168.31.60/gudou.php?id=CCTV-4HD_7500
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="谷豆本地",CCTV5
-http://192.168.31.60/gudou.php?id=CCTV5HD_7000
+http://192.168.31.60/gudou.php?id=1605_4500
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="谷豆本地",CCTV5+
-http://192.168.31.60/gudou.php?id=CCTV5plusHD_7000
+http://192.168.31.60/gudou.php?id=1403_4500
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="谷豆本地",CCTV6
 http://192.168.31.60/gudou.php?id=CCTV6HD_7000
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="谷豆本地",CCTV7

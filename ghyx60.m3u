@@ -43,13 +43,13 @@ http://192.168.31.60/ghyx.php?id=fxzl2
 http://192.168.31.60/ghyx.php?id=lgs2
 #EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="地方",书画频道
 http://192.168.31.60/ghyx.php?id=sh2
-#EXTINF:-1 tvg-id="" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="未分类",中国天气
+#EXTINF:-1 tvg-id="" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="其他",中国天气
 http://192.168.31.60/ghyx.php?id=zgtq2
-#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="未分类",CETV1中教1台
+#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV1中教1台
 http://192.168.31.60/ghyx.php?id=cetv1hd
-#EXTINF:-1 tvg-id="" tvg-name="CETV3" tvg-logo="https://epg.112114.xyz/logo/CETV3.png" group-title="未分类",CETV3中教3台
+#EXTINF:-1 tvg-id="" tvg-name="CETV3" tvg-logo="https://epg.112114.xyz/logo/CETV3.png" group-title="其他",CETV3中教3台
 http://192.168.31.60/ghyx.php?id=cetv3b
-#EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="未分类",CETV4中教4台
+#EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV4中教4台
 http://192.168.31.60/ghyx.php?id=cetv4b
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="地方",CETV早期教育
 http://192.168.31.60/ghyx.php?id=zqjy2
@@ -159,13 +159,13 @@ http://192.168.31.60/ghyx.php?id=hqqg2
 http://192.168.31.60/ghyx.php?id=hqly2
 #EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="地方",优优宝贝
 http://192.168.31.60/ghyx.php?id=yybb2
-#EXTINF:-1 tvg-id="" tvg-name="生态环境" tvg-logo="https://epg.112114.xyz/logo/生态环境.png" group-title="未分类",生态环境
+#EXTINF:-1 tvg-id="" tvg-name="生态环境" tvg-logo="https://epg.112114.xyz/logo/生态环境.png" group-title="其他",生态环境
 http://192.168.31.60/ghyx.php?id=sthj2
-#EXTINF:-1 tvg-id="" tvg-name="置业频道" tvg-logo="https://epg.112114.xyz/logo/置业.png" group-title="未分类",置业频道
+#EXTINF:-1 tvg-id="" tvg-name="置业频道" tvg-logo="https://epg.112114.xyz/logo/置业.png" group-title="其他",置业频道
 http://192.168.31.60/ghyx.php?id=zypd2
-#EXTINF:-1 tvg-id="" tvg-name="中华特产" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="未分类",中华特产
+#EXTINF:-1 tvg-id="" tvg-name="中华特产" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="其他",中华特产
 http://192.168.31.60/ghyx.php?id=zhtc2
-#EXTINF:-1 tvg-id="" tvg-name="歌华导视" tvg-logo="https://epg.112114.xyz/logo/歌华导视.png" group-title="未分类",歌华导视
+#EXTINF:-1 tvg-id="" tvg-name="歌华导视" tvg-logo="https://epg.112114.xyz/logo/歌华导视.png" group-title="其他",歌华导视
 http://192.168.31.60/ghyx.php?id=ghdshd
 #EXTINF:-1 tvg-id="6607" tvg-name="动感音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC5.jpg" group-title="地方",动感音乐
 http://192.168.31.60/ghyx.php?id=dgyy2
@@ -173,55 +173,31 @@ http://192.168.31.60/ghyx.php?id=dgyy2
 http://192.168.31.60/ghyx.php?id=jsrwhd
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
 http://192.168.31.60/ghyx.php?id=shss2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/都市剧场.png" group-title="未分类",都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/都市剧场.png" group-title="其他",都市剧场
 http://192.168.31.60/ghyx.php?id=dsjc2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/金色学堂.png" group-title="未分类",金色学堂
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/金色学堂.png" group-title="其他",金色学堂
 http://192.168.31.60/ghyx.php?id=jsxt2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/动漫秀场.png" group-title="未分类",动漫秀场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/动漫秀场.png" group-title="其他",动漫秀场
 http://192.168.31.60/ghyx.php?id=dmxc2
 #EXTINF:-1 tvg-id="6603" tvg-name="车迷频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg" group-title="地方",车迷频道
 http://192.168.31.60/ghyx.php?id=cmpd2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/法治天地.png" group-title="未分类",法治天地
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/法治天地.png" group-title="其他",法治天地
 http://192.168.31.60/ghyx.php?id=fztd2
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海",魅力足球
 http://192.168.31.60/ghyx.php?id=mlzq2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/乐游.png" group-title="未分类",乐游
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/乐游.png" group-title="其他",乐游
 http://192.168.31.60/ghyx.php?id=ly2
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
 http://192.168.31.60/ghyx.php?id=jbty2
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 http://192.168.31.60/ghyx.php?id=yxfy2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/山东教育卫视.png" group-title="未分类",山东教育卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/山东教育卫视.png" group-title="其他",山东教育卫视
 http://192.168.31.60/ghyx.php?id=sdjy2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/收藏天下.png" group-title="未分类",收藏天下
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.112114.xyz/logo/收藏天下.png" group-title="其他",收藏天下
 http://192.168.31.60/ghyx.php?id=sctx2
-#EXTINF:-1 tvg-id="" tvg-name="中华美食" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="未分类",中华美食
+#EXTINF:-1 tvg-id="" tvg-name="中华美食" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="其他",中华美食
 http://192.168.31.60/ghyx.php?id=zhms2
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道
 http://192.168.31.60/ghyx.php?id=cpd2
 #EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="地方",天元围棋
 http://192.168.31.60/ghyx.php?id=tywq2
-#EXTINF:-1 tvg-id="" tvg-name="空中课堂一年级" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂一年级
-http://192.168.31.60/ghyx.php?id=kzktx1b
-#EXTINF:-1 tvg-id="" tvg-name="空中课堂二年级" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂二年级
-http://192.168.31.60/ghyx.php?id=kzktx2b
-#EXTINF:-1 tvg-id="" tvg-name="空中课堂三年级" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂三年级
-http://192.168.31.60/ghyx.php?id=kzktx3b
-#EXTINF:-1 tvg-id="" tvg-name="空中课堂四年级" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂四年级
-http://192.168.31.60/ghyx.php?id=kzktx4b
-#EXTINF:-1 tvg-id="" tvg-name="空中课堂五年级" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂五年级
-http://192.168.31.60/ghyx.php?id=kzktx5b
-#EXTINF:-1 tvg-id="" tvg-name="空中课堂六年级" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂六年级
-http://192.168.31.60/ghyx.php?id=kzktx6b
-#EXTINF:-1 tvg-id="" tvg-name="空中课堂初一" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂初一
-http://192.168.31.60/ghyx.php?id=kzktc1b
-#EXTINF:-1 tvg-id="" tvg-name="空中课堂初二" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂初二
-http://192.168.31.60/ghyx.php?id=kzktc2b
-#EXTINF:-1 tvg-id="" tvg-name="空中课堂初三" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂初三
-http://192.168.31.60/ghyx.php?id=kzktc3b
-#EXTINF:-1 tvg-id="" tvg-name="空中课堂高一" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂高一
-http://192.168.31.60/ghyx.php?id=kzktg1b
-#EXTINF:-1 tvg-id="" tvg-name="空中课堂高二" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂高二
-http://192.168.31.60/ghyx.php?id=kzktg2b
-#EXTINF:-1 tvg-id="" tvg-name="空中课堂高三" tvg-logo="http://epg.112114.xyz/logo/空中课堂.png" group-title="空中课堂",空中课堂高三
-http://192.168.31.60/ghyx.php?id=kzktg3b

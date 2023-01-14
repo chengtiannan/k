@@ -1,0 +1,9 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
+http://192.168.50.4:6789/tvb.php?id=0&hq
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经资讯
+http://192.168.50.4:6789/tvb.php?id=2&hq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",事件直播1
+http://192.168.50.4:6789/tvb.php?id=4&hq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",事件直播2
+http://192.168.50.4:6789/tvb.php?id=6&hq

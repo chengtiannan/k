@@ -6,7 +6,7 @@ http://117.161.133.51/gitv_live/G_CCTV-2-CQ/G_CCTV-2-CQ.m3u8
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
 http://117.161.133.51/gitv_live/G_CCTV-3-CQ/G_CCTV-3-CQ.m3u8
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
-,http://117.161.133.51/gitv_live/G_CCTV-4-CQ/G_CCTV-4-CQ.m3u8
+http://117.161.133.51/gitv_live/G_CCTV-4-CQ/G_CCTV-4-CQ.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
 http://117.161.133.51/gitv_live/G_CCTV-5-CQ/G_CCTV-5-CQ.m3u8
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+

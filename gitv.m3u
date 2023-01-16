@@ -1,0 +1,126 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+
+#EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合
+http://117.161.133.51/gitv_live/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
+#EXTINF:-1 tvg-name="CCTV2",CCTV-2 财经
+CCTV-2 超清,http://117.161.133.51/gitv_live/G_CCTV-2-CQ/G_CCTV-2-CQ.m3u8
+
+CCTV-3 超清,http://117.161.133.51/gitv_live/G_CCTV-3-CQ/G_CCTV-3-CQ.m3u8?p=GITV
+
+CCTV-4 超清,http://117.161.133.51/gitv_live/G_CCTV-4-CQ/G_CCTV-4-CQ.m3u8?p=GITV
+
+CCTV-5 超清,http://117.161.133.51/gitv_live/G_CCTV-5-CQ/G_CCTV-5-CQ.m3u8?p=GITV
+CCTV-5+ 超清,http://117.161.133.51/gitv_live/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ.m3u8?p=GITV
+
+CCTV-6 超清,http://117.161.133.51/gitv_live/G_CCTV-6-CQ/G_CCTV-6-CQ.m3u8?p=GITV
+
+CCTV-7 超清,http://117.161.133.51/gitv_live/G_CCTV-7-CQ/G_CCTV-7-CQ.m3u8?p=GITV
+
+CCTV-8 超清,http://117.161.133.51/gitv_live/G_CCTV-8-CQ/G_CCTV-8-CQ.m3u8?p=GITV
+
+CCTV-9 超清,http://117.161.133.51/gitv_live/G_CCTV-9-CQ/G_CCTV-9-CQ.m3u8?p=GITV
+
+CCTV-10 超清,http://117.161.133.51/gitv_live/G_CCTV-10-CQ/G_CCTV-10-CQ.m3u8?p=GITV
+
+CCTV-11 超清,http://117.161.133.51/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8?p=GITV
+
+CCTV-12 超清,http://117.161.133.51/gitv_live/G_CCTV-12-CQ/G_CCTV-12-CQ.m3u8?p=GITV
+CCTV-13 标清,http://117.161.133.51/gitv_live/CCTV-13/CCTV-13.m3u8?p=GITV
+CCTV-13 标清,http://117.161.133.51/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8?p=GITV
+
+CCTV-14 超清,http://117.161.133.51/gitv_live/G_CCTV-14-CQ/G_CCTV-14-CQ.m3u8?p=GITV
+
+CCTV-16 超清,http://117.161.133.51/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8?p=GITV
+
+CCTV-17 超清,http://117.161.133.51/gitv_live/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8?p=GITV
+CETV-1 标清,http://117.161.133.51/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
+CETV-2 标清,http://117.161.133.51/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
+CETV-3 标清,http://117.161.133.51/gitv_live/G_CETV-3/G_CETV-3.m3u8?p=GITV
+CETV-4 标清,http://117.161.133.51/gitv_live/G_CETV-4/G_CETV-4.m3u8?p=GITV
+安徽卫视 超清,http://117.161.133.51/gitv_live/G_ANHUI-CQ/G_ANHUI-CQ.m3u8?p=GITV
+
+北京卫视 超清,http://117.161.133.51/gitv_live/G_BEIJING-CQ/G_BEIJING-CQ.m3u8?p=GITV
+
+重庆卫视 超清,http://117.161.133.51/gitv_live/G_CHONGQING-CQ/G_CHONGQING-CQ.m3u8?p=GITV
+
+东方卫视 超清,http://117.161.133.51/gitv_live/G_DONGFANG-CQ/G_DONGFANG-CQ.m3u8?p=GITV
+
+东南卫视 标清,http://117.161.133.51/gitv_live/G_DONGNAN-HQ/G_DONGNAN-HQ.m3u8?p=GITV
+
+广东卫视 超清,http://117.161.133.51/gitv_live/G_GUANGDONG-CQ/G_GUANGDONG-CQ.m3u8?p=GITV
+
+广西卫视 标清,http://117.161.133.51/gitv_live/G_GUANGXI-HQ/G_GUANGXI-HQ.m3u8?p=GITV
+广西卫视 标清,http://117.161.133.51/gitv_live/GXWS/GXWS.m3u8?p=GITV
+贵州卫视 标清,http://117.161.133.51/gitv_live/G_GUIZHOU-HQ/G_GUIZHOU-HQ.m3u8?p=GITV
+贵州卫视 标清,http://117.161.133.51/gitv_live/G_GUIZHOU/G_GUIZHOU.m3u8?p=GITV
+海南卫视 超清,http://117.161.133.51/gitv_live/G_HAINAN-HQ/G_HAINAN-HQ.m3u8?p=GITV
+
+河北卫视 标清,http://117.161.133.51/gitv_live/G_HEBEI-CQ/G_HEBEI-CQ.m3u8?p=GITV
+河北卫视 标清,http://117.161.133.51/gitv_live/G_HEBEI/G_HEBEI.m3u8?p=GITV
+河南卫视 标清,http://117.161.133.51/gitv_live/G_HENAN-CQ/G_HENAN-CQ.m3u8?p=GITV
+河南卫视 标清,http://117.161.133.51/gitv_live/HENAN/HENAN.m3u8?p=GITV
+黑龙江卫视 超清,http://117.161.133.51/gitv_live/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ.m3u8?p=GITV
+黑龙江卫视 标清,http://117.161.133.51/gitv_live/G_HEILONGJIANG/G_HEILONGJIANG.m3u8?p=GITV
+湖北卫视 超清,http://117.161.133.51/gitv_live/G_HUBEI-CQ/G_HUBEI-CQ.m3u8?p=GITV
+
+湖南卫视 超清,http://117.161.133.51/gitv_live/G_HUNAN-CQ/G_HUNAN-CQ.m3u8?p=GITV
+
+吉林卫视 超清,http://117.161.133.51/gitv_live/G_JILIN-HQ/G_JILIN-HQ.m3u8?p=GITV
+
+江苏卫视 超清,http://117.161.133.51/gitv_live/G_JIANGSU-CQ/G_JIANGSU-CQ.m3u8?p=GITV
+
+江西卫视 超清,http://117.161.133.51/gitv_live/G_JIANGXI-CQ/G_JIANGXI-CQ.m3u8?p=GITV
+
+辽宁卫视 超清,http://117.161.133.51/gitv_live/G_LIAONING-CQ/G_LIAONING-CQ.m3u8?p=GITV
+
+山东卫视 超清,http://117.161.133.51/gitv_live/G_SHANDONG-CQ/G_SHANDONG-CQ.m3u8?p=GITV
+
+深圳卫视 超清,http://117.161.133.51/gitv_live/G_SHENZHEN-CQ/G_SHENZHEN-CQ.m3u8?p=GITV
+
+四川卫视 标清,http://117.161.133.51/gitv_live/G_SICHUAN-HQ/G_SICHUAN-HQ.m3u8?p=GITV
+
+天津卫视 超清,http://117.161.133.51/gitv_live/G_TIANJIN-CQ/G_TIANJIN-CQ.m3u8?p=GITV
+
+浙江卫视 超清,http://117.161.133.51/gitv_live/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ.m3u8?p=GITV
+
+云南卫视 标清,http://117.161.133.51/gitv_live/G_YUNNAN/G_YUNNAN.m3u8?p=GITV
+青海卫视 标清,http://117.161.133.51/gitv_live/G_QINGHAI/G_QINGHAI.m3u8?p=GITV
+甘肃卫视 标清,http://117.161.133.51/gitv_live/G_GANSU/G_GANSU.m3u8?p=GITV
+陕西卫视 标清,http://117.161.133.51/gitv_live/G_SHANXI/G_SHANXI.m3u8?p=GITV
+宁夏卫视 标清,http://117.161.133.51/gitv_live/G_NINGXIA/G_NINGXIA.m3u8?p=GITV
+山西卫视 标清,http://117.161.133.51/gitv_live/SXWS/SXWS.m3u8?p=GITV
+内蒙古卫视 标清,http://117.161.133.51/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8?p=GITV
+新疆卫视 标清,http://117.161.133.51/gitv_live/G_XINJIANG/G_XINJIANG.m3u8?p=GITV
+西藏卫视 标清,http://117.161.133.51/gitv_live/G_XIZANG/G_XIZANG.m3u8?p=GITV
+厦门卫视 标清,http://117.161.133.51/gitv_live/G_XIAMEN/G_XIAMEN.m3u8?p=GITV
+CCTV兵器科技 超清,http://117.161.133.51/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8?p=GITV
+CCTV高尔夫网球 超清,http://117.161.133.51/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8?p=GITV
+CCTV央视精品文化 超清,http://117.161.133.51/gitv_live/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ.m3u8?p=GITV
+CCTV电视指南 超清,http://117.161.133.51/gitv_live/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ.m3u8?p=GITV
+CCTV第一剧场 超清,http://117.161.133.51/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8?p=GITV
+CCTV风云足球 超清,http://117.161.133.51/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?p=GITV
+CCTV风云剧场 超清,http://117.161.133.51/gitv_live/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m3u8?p=GITV
+CCTV风云音乐 超清,http://117.161.133.51/gitv_live/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8?p=GITV
+CCTV女性时尚 超清,http://117.161.133.51/gitv_live/G_NVXINGSS-CQ/G_NVXINGSS-CQ.m3u8?p=GITV
+CCTV世界地理 超清,http://117.161.133.51/gitv_live/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ.m3u8?p=GITV
+CCTV央视台球 超清,http://117.161.133.51/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8?p=GITV
+CGTN 标清,http://117.161.133.51/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8?p=GITV
+卡酷少儿 标清,http://117.161.133.51/gitv_live/G_KAKU/G_KAKU.m3u8?p=GITV
+金鹰卡通 标清,http://117.161.133.51/gitv_live/G_JINYING/G_JINYING.m3u8?p=GITV
+央广购物 标清,http://117.161.133.51/gitv_live/G_YANGGUANGGOU/G_YANGGUANGGOU.m3u8?p=GITV
+好享购物[1280*960],http://117.161.133.51/gitv_live/G_HAOXIANG/G_HAOXIANG.m3u8?p=GITV
+书画频道 标清,http://117.161.133.51/gitv_live/G_SHUHUA/G_SHUHUA.m3u8?p=GITV
+国学频道 标清,http://117.161.133.51/gitv_live/G_GUOXUE/G_GUOXUE.m3u8?p=GITV
+汽摩频道 标清,http://117.161.133.51/gitv_live/G_QIMO/G_QIMO.m3u8?p=GITV
+靓妆频道 标清,http://117.161.133.51/gitv_live/G_LIANGZHUANG/G_LIANGZHUANG.m3u8?p=GITV
+GTV游戏竞技 标清,http://117.161.133.51/gitv_live/G_YOUXIJJ/G_YOUXIJJ.m3u8?p=GITV
+四海钓鱼 标清,http://117.161.133.51/gitv_live/G_SIHAIDY/G_SIHAIDY.m3u8?p=GITV
+发现之旅 标清,http://117.161.133.51/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8?p=GITV
+老故事 标清,http://117.161.133.51/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8?p=GITV
+中学生 标清,http://117.161.133.51/gitv_live/G_ZHONGXUESHENG/G_ZHONGXUESHENG.m3u8?p=GITV
+咪咕精彩足球 超清,http://117.161.133.51/gitv_live/G_MIGUJCZQ/G_MIGUJCZQ.m3u8?p=GITV
+咪咕综合体育 超清,http://117.161.133.51/gitv_live/G_MIGUZHTY/G_MIGUZHTY.m3u8?p=GITV
+央广优选 标清,http://117.161.133.51/gitv_live/G_JUJIAYX/G_JUJIAYX.m3u8?p=GITV
+家庭理财 标清,http://117.161.133.51/gitv_live/G_JIATINGLC/G_JIATINGLC.m3u8?p=GITV
+燃情世界杯 超清,http://117.161.133.51/gitv_live/G_AOYUN-1/G_AOYUN-1.m3u8?p=GITV
+财富天下 标清,http://117.161.133.51/gitv_live/G_CAIFUTIANXIA/G_CAIFUTIANXIA.m3u8?p=GITV

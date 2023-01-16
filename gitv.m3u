@@ -99,8 +99,6 @@ http://117.161.133.51/gitv_live/G_GUANGDONG-CQ/G_GUANGDONG-CQ.m3u8
 http://117.161.133.51/gitv_live/G_SHENZHEN-CQ/G_SHENZHEN-CQ.m3u8
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
 http://117.161.133.51/gitv_live/G_GUANGXI-HQ/G_GUANGXI-HQ.m3u8
-//#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
-http://117.161.133.51/gitv_live/G_HAINAN-HQ/G_HAINAN-HQ.m3u8
 #EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="其他",咪咕足球高清
 http://117.161.133.51/gitv_live/G_MIGUJCZQ/G_MIGUJCZQ.m3u8
 #EXTINF:-1,tvg-id="咪咕综合" tvg-name="咪咕综合" tvg-logo="https://epg.112114.xyz/logo/咪咕综合.png" group-title="其他",咪咕综合高清

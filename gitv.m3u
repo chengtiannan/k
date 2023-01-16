@@ -33,12 +33,8 @@ http://117.161.133.51/gitv_live/G_CCTV-14-CQ/G_CCTV-14-CQ.m3u8
 http://117.161.133.51/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
 http://117.161.133.51/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
-//#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克4K
-//http://117.184.239.68/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://117.161.133.51/gitv_live/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8
-//#EXTINF:-1 tvg-name="CCTV4K",CCTV-4K
-//http://117.184.239.68/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="其他",中国教育-1
 http://117.161.133.51/gitv_live/G_CETV-1/G_CETV-1.m3u8
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育2台" tvg-logo="https://epg.112114.xyz/logo/中国教育2台.png" group-title="其他",中国教育-2
@@ -65,8 +61,6 @@ http://117.161.133.51/gitv_live/G_JILIN-HQ/G_JILIN-HQ.m3u8
 http://117.161.133.51/gitv_live/G_LIAONING-CQ/G_LIAONING-CQ.m3u8
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://117.161.133.51/gitv_live/G_GANSU/G_GANSU.m3u8
-//#EXTINF:-1 tvg-name="北京纪实",纪实科教
-//http://117.184.239.68/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿
 http://117.161.133.51/gitv_live/G_KAKU/G_KAKU.m3u8
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
@@ -85,10 +79,6 @@ http://117.161.133.51/gitv_live/G_ANHUI-CQ/G_ANHUI-CQ.m3u8
 http://117.161.133.51/gitv_live/G_HUBEI-CQ/G_HUBEI-CQ.m3u8
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="其他",金鹰卡通
 http://117.161.133.51/gitv_live/G_JINYING/G_JINYING.m3u8
-//#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓
-//http://117.184.239.68/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
-//#EXTINF:-1 tvg-name="茶频道",茶频道
-//http://117.184.239.68/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://117.161.133.51/gitv_live/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ.m3u8
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视

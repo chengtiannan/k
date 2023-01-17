@@ -142,21 +142,9 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/kkkt/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卫视",嘉佳卡通 3M1080
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jjkt/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文 10M1080
-http://117.169.120.144:8080/live/fhchinese/.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯 10M1080
-http://117.169.120.144:8080/live/fhzixun/.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CGTN英闻" tvg-logo=" " group-title="海外",CGTN英闻
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/1/2001656803.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="CGTN法语" tvg-logo=" " group-title="海外", CGTN法语
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/1/2010153503.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="CGTN俄语" tvg-logo="" group-title="海外",CGTN俄语
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/1/2010152603.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN阿拉伯语" tvg-logo="" group-title="海外",CGTN阿拉伯语
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/1/2010155203.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="CGTN西班牙语" tvg-logo="" group-title="海外",CGTN西班牙语
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/1/2010152503.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="CGTN纪录国际" tvg-logo="" group-title="海外",CGTN纪录国际
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/1/2010155403.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视",CCTV风云足球
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/1/2012514203.m3u8
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视",CCTV风云音乐
